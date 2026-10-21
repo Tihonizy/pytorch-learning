@@ -1,0 +1,11 @@
+torch
+torchvision
+torchinfo
+torchmetrics
+tensorboard
+matplotlib
+numpy
+pandas
+requests
+tqdm
+Pillow

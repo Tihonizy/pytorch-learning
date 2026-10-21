@@ -1,8 +1,19 @@
-.DS_Store
+# Data, weights and experiment logs
+data/
+models/
+runs/
+*.pth
+*.pt
+*.zip
+
+# Python and Jupyter
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .venv/
 venv/
-*.pth
-*.pt
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
